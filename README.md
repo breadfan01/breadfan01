@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @breadfan01
+- 👋 Hi, I’m Nic. This is my personal GitHub 
 - 👀 I’m interested in coding for the web, Powershell and electronics.
 - 🌱 I’m currently learning Python for the web
 - 💞️ I’m looking to collaborate on any project really
